@@ -1,0 +1,7 @@
+[
+  {
+    "type": "text",
+    "question": "Ask Something",
+    "answers": { "contains": ["?", "!"], "exactly": ["Why", "How"] }
+  }
+]
