@@ -3,5 +3,10 @@
     "type": "text",
     "question": "Ask Something",
     "answers": { "contains": ["?", "!"], "exactly": ["Why", "How"] }
+  },
+  {
+    "type": "text",
+    "question": "Ask Something Else",
+    "answers": { "contains": ["?", "!"], "exactly": ["Why", "How"] }
   }
 ]
